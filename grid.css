@@ -1,12 +1,19 @@
+
 div {
     height: 50px;
-    /width: 300px;/
+    /width:300px;/
   }
-  .row1,
+  .row1{
+    margin: 20px;
+    background-color: rgb(235, 232, 232);
+    height: 140px;
+    text-align: center;
+  }
   .row2 {
     margin: 20px;
     background-color: rgb(235, 232, 232);
-    height: 50px;
+    height: 200px;
+    text-align: center;
   }
   
   .row3,
@@ -17,7 +24,9 @@ div {
     background-color: rgb(235, 232, 232);
     width: 40vh;
     height: 50px;
+    text-align: center;
   }
+  
   .four,
   .two {
     display: flex;
@@ -27,16 +36,20 @@ div {
   .row9 {
     margin: 10px;
     background-color: rgb(235, 232, 232);
+    text-align: center;
   }
   .row7 {
     margin-top: 50px;
     height: 50vh;
-    width: 50%;
+    width: 60%;
   }
   .row8 {
     margin-top: 50px;
-    height: 40.5vh;
-    width: 90vh;
+    height: 20vh;
+    width: 70vh;
+  }
+  .row9 {
+   height:28vh;
   }
   .two {
     margin: 20px;
