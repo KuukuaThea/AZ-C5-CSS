@@ -5,7 +5,7 @@ div {
   .row1,
   .row2 {
     margin: 20px;
-    background-color: gray;
+    background-color: rgb(235, 232, 232);
     height: 50px;
   }
   
@@ -14,7 +14,7 @@ div {
   .row5,
   .row6 {
     margin: 20px;
-    background-color: gray;
+    background-color: rgb(235, 232, 232);
     width: 40vh;
     height: 50px;
   }
@@ -26,7 +26,7 @@ div {
   .row8,
   .row9 {
     margin: 10px;
-    background-color: gray;
+    background-color: rgb(235, 232, 232);
   }
   .row7 {
     margin-top: 50px;
